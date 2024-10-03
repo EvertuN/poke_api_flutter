@@ -1,16 +1,20 @@
 # poke_api_flutter
 
-A new Flutter project.
+Até onde esse código foi enviado, ele apenas lista os nomes dos pokemons.
 
-## Getting Started
+## PROBLEMAS!!!
 
-This project is a starting point for a Flutter application.
+Não consegui fazer com que a pokemonPage funcionar, tenho que tentar alguma abordagem diferente!
+Não consegui fazer a ligação entre o url para abrir uma nova requisição.
 
-A few resources to get you started if this is your first Flutter project:
+Por não conseguir nem abrir a url do pokémon não sei se o modelDetailPoke.dart vai funcionar, não sei se essa-
+é a abordagem padrão, se eu posso colocar tudo dentro do mesmo model.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+O servuce com certeza tem que ser diferente...(pelo menos eu acho)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##IMAGEM
+
+![Captura de tela 2024-10-02 220310](https://github.com/user-attachments/assets/5788dcb0-bf4c-433c-a52d-7eeafa4de048)
+
+
+
